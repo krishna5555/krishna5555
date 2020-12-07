@@ -1,6 +1,6 @@
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Hi there 👋, Welcome to my GitHub profile</h1>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working as a Software Engineer on **Java**
 
 - 🌱 I’m currently learning **Micro-services, Apache Kafka**
 
