@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **Micro-services, Apache Kafka**
 
-- 👯 I’m looking to collaborate on [sagan](https://github.com/spring-io/sagan)
+- 👯 I’m looking to collaborate on [sagan, The spring.io site and reference application](https://github.com/spring-io/sagan)
 
-- 👨‍💻 All of my projects are available at [github.com/krishna5555](github.com/krishna5555)
+- 👨‍💻 All of my projects are available at [https://github.com/krishna5555](github.com/krishna5555)
 
 - 💬 Ask me about **Java, Spring**
 <h3 align="center">A passionate full stack developer</h3>
