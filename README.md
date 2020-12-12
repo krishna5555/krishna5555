@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋, Welcome to my GitHub profile</h1>
+<div align="center"><img src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/octo.gif" alt="GitHub Logo" width="150" height="150" style="max-width:100%;"/></div>
 
 - 🔭 I’m currently working as a Software Engineer on **Java**
 
