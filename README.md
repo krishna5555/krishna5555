@@ -15,8 +15,6 @@
 
 🚀 Projects:
 
-<img src="https://github.com/krishna5555/bootstrap/blob/main/assets/typer.gif" alt="Typerlogo" width="400" height="250" style="float:right;"/>
-
 - [Amazon clone](https://github.com/krishna5555/projects/tree/master/amazon-clone)
 
 - [Expense tracker](https://github.com/krishna5555/projects/tree/master/expense-tracker)
