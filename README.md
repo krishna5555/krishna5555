@@ -15,8 +15,12 @@
 
 🚀 Projects:
 
-<div sytle="float:right"><img src="https://github.com/krishna5555/bootstrap/blob/main/assets/typer.gif" alt="Typerlogo" width="400" height="250" style="max-width:100%;"/></div>
-[Amazon clone](https://github.com/krishna5555/projects/tree/master/amazon-clone)
-[Expense tracker](https://github.com/krishna5555/projects/tree/master/expense-tracker)
-[React projects](https://github.com/krishna5555/projects/tree/master/react-projects)
-[Movie Catalog using microservices](https://github.com/krishna5555/microservices/tree/main/movie-catalog)
+<img src="https://github.com/krishna5555/bootstrap/blob/main/assets/typer.gif" alt="Typerlogo" width="400" height="250" style="max-width:100%;float:right;"/>
+
+- [Amazon clone](https://github.com/krishna5555/projects/tree/master/amazon-clone)
+
+- [Expense tracker](https://github.com/krishna5555/projects/tree/master/expense-tracker)
+
+- [React projects](https://github.com/krishna5555/projects/tree/master/react-projects)
+
+- [Movie Catalog using microservices](https://github.com/krishna5555/microservices/tree/main/movie-catalog)
