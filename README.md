@@ -15,6 +15,7 @@
 
 <h3 align="left">🚀 Projects:</h3>
 <img align="right" width="400" height="250" src="https://github.com/krishna5555/bootstrap/blob/main/assets/typer.gif" />
+
 - [Expense tracker](https://github.com/krishna5555/projects/tree/master/expense-tracker)
 
 - [Shopping Cart](https://github.com/krishna5555/projects/tree/master/amazon-clone)
