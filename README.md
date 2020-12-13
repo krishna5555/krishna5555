@@ -15,7 +15,7 @@
 
 <h3 align="left">🚀 Projects:</h3>
 
-- [Amazon clone](https://github.com/krishna5555/projects/tree/master/amazon-clone)
+- [Shopping Cart](https://github.com/krishna5555/projects/tree/master/amazon-clone)
 
 - [Expense tracker](https://github.com/krishna5555/projects/tree/master/expense-tracker)
 
