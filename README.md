@@ -18,6 +18,8 @@
 
 - [Expense Tracker](https://github.com/krishna5555/projects/tree/master/expense-tracker)
 
+- [Gmail clone](https://github.com/krishna5555/gmail-clone)
+
 - [Shopping Cart](https://github.com/krishna5555/projects/tree/master/amazon-clone)
 
 - [React projects](https://github.com/krishna5555/projects/tree/master/react-projects)
